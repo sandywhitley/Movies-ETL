@@ -1,2 +1,4 @@
 # Movies-ETL
-vdab moduel 8 etl
+##### VDAB Module 8 Extract-Transform-Load Challenge
+Sandra Whitley | Nov 2020
+****************************
